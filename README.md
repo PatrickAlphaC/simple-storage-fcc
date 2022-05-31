@@ -1,6 +1,6 @@
 This is part of the FreeCodeCamp Solidity & Javascript Blockchain Course.
 
-Video Link : [https://youtu.be/gyMwXuJrbJQ?t=7276](https://www.youtube.com/watch?v=gyMwXuJrbJQ&list=WL&index=9&t=1604s&ab_channel=freeCodeCamp.org)
+Video Link : https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=7276s
 
 TimeStamp : (02:01:16)
 ## Getting Started
