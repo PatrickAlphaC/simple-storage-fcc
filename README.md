@@ -1,7 +1,8 @@
 This is part of the FreeCodeCamp Solidity & Javascript Blockchain Course.
 
-Video Coming Soon...
+Video Link : https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=7276s
 
+TimeStamp : (02:01:16)
 ## Getting Started
 
 1. Go to [Remix](https://remix.ethereum.org/)
