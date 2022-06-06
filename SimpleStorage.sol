@@ -27,6 +27,7 @@ contract SimpleStorage {
     }
 
     function addPerson(string memory _name, uint256 _favoriteNumber) public {
+        require(bytes(_name).length > 0, "Name cannot be empty!");
         people.push(People(_favoriteNumber, _name));
         nameToFavoriteNumber[_name] = _favoriteNumber;
     }
