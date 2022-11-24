@@ -12,6 +12,14 @@ TimeStamp : (02:01:16)
 
 For a more in depth blog on working with remix, [read here](https://docs.chain.link/docs/deploy-your-first-contract/)
 
+## Updated Code
+
+Checkout the `updated_version` branch in order to find the latest version of Solidity Code.
+
+You can find it here;  
+
+<img src="./img/updated-version-branch.png" width=300>
+
 # Thank you!
 
 If you appreciated this, feel free to follow me or donate!
